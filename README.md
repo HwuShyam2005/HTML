@@ -9,10 +9,22 @@ So in this repository i have uploaded a simple-kinda cheat sheet which can be us
 <br>
 Link: https://hwushyam2005.github.io/HTML/basic/basicref.html
 <br>
+
 -> (2) Hyperlinks
 <br>
 Link: https://hwushyam2005.github.io/HTML/hyperlink/hyperlinkref.html
 <br>
+
+-> (3) Images
+<br>
+Link: https://hwushyam2005.github.io/HTML/image/imageref.html
+<br>
+
+-> (4) Audio
+<br>
+Link: https://hwushyam2005.github.io/HTML/audio/audioref.html
+<br>
+
 
 
 
