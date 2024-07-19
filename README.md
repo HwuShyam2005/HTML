@@ -25,6 +25,16 @@ Link: https://hwushyam2005.github.io/HTML/image/imageref.html
 Link: https://hwushyam2005.github.io/HTML/audio/audioref.html
 <br>
 
+-> (5) Favicon
+<br>
+Link: https://hwushyam2005.github.io/HTML/favicon/faviconref.html
+<br>
+
+-> (6) Text Formatting
+<br>
+Link: https://hwushyam2005.github.io/HTML/textformatting/textformat.html
+<br>
+
 
 
 
