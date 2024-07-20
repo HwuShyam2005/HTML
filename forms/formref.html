@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM</title>
+</head>
+<body>
+    <!--CREATING A FORM-->
+    <form>
+    <!--SIMPLE TEXT INPUT-->
+    <!--MINLENGTH IS USED FOR REQUESTING USER TO TYPE MINIMUM LENGTH-->
+    <!--MAXLENGTH IS USED FOR INFORMING THE USER REACHED THE LIMIT OF LETTERS-->
+    <!--REQUIRED MAKES SURE THERES NO EMPTY DATA-->
+    <!--PLACEHOLDER CAN BE LIKE A HINT OR SMTG OVER THE INPUT-->
+    <label for="username">Username:</label>
+    <input type="text" id="username" placeholder="name" minlength="8" maxlength="15" required>
+    <br>
+
+    <!--PASSWORDS-->
+    <label for="username">Password:</label>
+    <input type="password" id="password" required >
+    <br>
+
+    <!--EMAIL-->
+    <label for="username">Email:</label>
+    <input type="email" id="email" placeholder="abc@email.com"  >
+    <br>
+
+    <!--PHONE NUMBER-->
+    <label for="phone">Phone Number:</label>
+    <input type="tel" id="phone" placeholder="123-4567890" pattern="[0-9]{3}-[0-9]{7}" >
+    <br>
+
+    <!--BIRTHDATE-->
+    <label for="DOB">DOB:</label>
+    <input type="date" id="DOB">
+    <br>
+
+    <!--QUANTITY-->
+    <!--MIN AND MAX CAN BE USED FOR DETERMINING THE RANGE OF NUMBERS THAT CAN BE CHOOSEN-->
+    <!--VALUE CAN BE USED TO SET DEFAULT VALUES-->
+    <label for="quantity">Quantity</label>
+    <input type="number" id="quantity" min="0" max="10" value="1">
+    <br>
+
+    <!--RADIO BUTTONS-->
+    <!--OPTION 1 (CHOOSES MULTIPLE OPTIONS )-->
+    <label for="title">Radio</label>
+
+    <label for="ABC">ABC</label>
+    <input type="radio" id="ABC" value="ABC">
+    <label for="DEF">DEF</label>
+    <input type="radio" id="DEF" value="DEF">
+    <label for="GHI">GHI</label>
+    <input type="radio" id="GHI" value="GHI">
+    <br>
+
+    <!--OPTION 2 (CHOOSES ONLY ONE)-->
+    <label for="title">Radio</label>
+
+    <label for="ABC">ABC</label>
+    <input type="radio" id="ABC" value="ABC" name="title">
+    <label for="DEF">DEF</label>
+    <input type="radio" id="DEF" value="DEF" name="title">
+    <label for="GHI">GHI</label>
+    <input type="radio" id="GHI" value="GHI" name="title">
+    <br>
+
+    <!--DROP DOWN MENU-->
+    <label for="dropdown">DropDown</label>
+    <select id="dropdown">
+       <option value="ABC">ABC</option>
+       <option value="DEF">DEF</option>
+       <option value="GHI">GHI</option>
+    </select>
+    <br>
+
+    <!--CHECKBOX-->
+    <label for="checkbox">CheckBox:</label>
+    <input type="checkbox" id="checkbox">
+    <br>
+
+    <!--TEXT AREA-->
+    <label for="textarea">TextArea:</label>
+    <textarea id="textarea" rows="4" cols="25"></textarea>
+    <br>
+
+    <!--CHOOSING FILES-->
+    <label for="choosefile">ChooseFile:</label>
+    <input type="file" id="choosefile">
+    <br>
+
+    <!--ACCEPT IS USED TO SPECIFY THE REQUIRED FILES-->
+    <!--MORE THAN ONE TYPE CAN BE ADDED BY SEPERATING WITH COMMA-->
+    <label for="choosefile">ChooseFile:</label>
+    <input type="file" id="choosefile" accept="image/png, image/jpeg">
+    <br>
+
+    <!--FOR RESETTING THE FORM-->
+    <!--IN BUTTON FORMAT-->
+    <input type="reset">
+    <br>
+    
+    <!--FOR SUBMITTING THE DATAS AFTER GIVING-->
+    <!--BUTTON FORMAT-->
+    <input type="submit">
+
+    </form>
+</body>
+</html>
