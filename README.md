@@ -35,6 +35,18 @@ Link: https://hwushyam2005.github.io/HTML/favicon/faviconref.html
 Link: https://hwushyam2005.github.io/HTML/textformatting/textformat.html
 <br>
 
+-> (7) Video
+<br>
+Link: https://hwushyam2005.github.io/HTML//video/videoref.html
+<br>
+
+-> (8) Span & Div
+<br>
+Link for Span: https://hwushyam2005.github.io/HTML/span&div/spanref.html
+<br>
+Link for Div: https://hwushyam2005.github.io/HTML/span&div/divref.html 
+<br>
+
 
 
 
