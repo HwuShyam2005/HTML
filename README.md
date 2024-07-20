@@ -47,6 +47,26 @@ Link for Span: https://hwushyam2005.github.io/HTML/span&div/spanref.html
 Link for Div: https://hwushyam2005.github.io/HTML/span&div/divref.html 
 <br>
 
+-> (9) Lists
+<br>
+Link: https://hwushyam2005.github.io/HTML/lists/listref.html
+<br>
 
+-> (10) Tables
+<br>
+Link: https://hwushyam2005.github.io/HTML/tables/tableref.html
+<br>
+
+-> (11) Buttons
+<br>
+Main Link: https://hwushyam2005.github.io/HTML/buttons/buttonref.html
+<br>
+Reference Link: https://hwushyam2005.github.io/HTML/buttons/ref.html
+<br>
+
+-> (12) Forms
+<br>
+Link: https://hwushyam2005.github.io/HTML/forms/formref.html
+<br>
 
 
